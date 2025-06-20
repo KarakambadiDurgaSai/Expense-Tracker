@@ -23,7 +23,7 @@ An Android application to track daily income and expenses with a real-time dashb
 👉 [View Demo Presentation (PDF)](demo/ExpenseTracker.pdf)
 
 ## 📹 Demo Video  
-👉 [Download Demo Video (MP4)](demo/ExpenseTracker-Demo.mp4.mp4)
+👉 [Download Demo Video (MP4)](demo/ExpenseTracker-Demo.mp4)
 
 ---
 
