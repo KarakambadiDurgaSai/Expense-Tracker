@@ -18,6 +18,7 @@ An Android application to track daily income and expenses with a real-time dashb
 - Clean color-coded entries (green for income, red for expenses)
 
 ---
+## Demo Presentation
 
 👉 [Download PDF](demo/ExpenseTracker-Presentation.pdf)
 👉 [Download MP4](demo/ExpenseTracker-Demo.mp4)
